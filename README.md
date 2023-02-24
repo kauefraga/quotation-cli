@@ -46,7 +46,8 @@ You are welcome to open issues and pull requests!
 
 - 🐍 [Python](https://www.python.org) - A programming language that lets you work quickly
 and integrate systems more effectively.
-- 🎨 [Rich](https://pypi.org/project/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- 🎨 [Rich](https://pypi.org/project/rich) - A Python library for rich text and beautiful formatting in the terminal.
+- 🛰 [Httpx](https://pypi.org/project/httpx) - A fully featured HTTP client library for Python 3.
 
 <!-- ## 📜 Coming soon... -->
 
