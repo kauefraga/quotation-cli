@@ -9,6 +9,8 @@ packages = [{include = "quotation_cli"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+rich = "^13.3.1"
+httpx = "^0.23.3"
 
 
 [build-system]
