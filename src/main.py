@@ -1,7 +1,6 @@
 import httpx
 from enum import Enum
 from rich import print, print_json
-from rich.panel import Panel
 
 from settings import settings
 
