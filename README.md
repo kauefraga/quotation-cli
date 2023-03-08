@@ -27,10 +27,6 @@
   </p>
 </div>
 
-## 🚧 Work in progress
-
-<!-- ## ✨ Features -->
-
 ## ⬇️ How to install and use it
 
 ```bash
